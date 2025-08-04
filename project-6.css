@@ -1,0 +1,800 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#Navigating {
+    width: 531px;
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.56px;
+    text-align: left;
+}
+
+#digital {
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    width: 498px;
+}
+
+#agency {
+    width: 580px;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+}
+
+#Contact {
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+    width: 500px;
+}
+
+#Working {
+    font-family: Space Grotesk;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 51.04px;
+    text-align: left;
+}
+
+#Achieving {
+    width: 292px;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+}
+
+#number-2 {
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.56px;
+    text-align: left;
+    color: black;
+}
+
+#Research {
+    font-family: Space Grotesk;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 38.28px;
+    text-align: left;
+    color: black;
+}
+
+#skilled {
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+    width: 450px;
+}
+
+#Testimonials {
+    font-family: Space Grotesk;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 51.04px;
+    text-align: left;
+}
+
+#Satisfied {
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+    width: 473px;
+}
+
+::placeholder {
+    color: white;
+}
+
+#border {
+    border-radius: 50px;
+}
+
+#card-1 {
+    width: 387px;
+    height: auto;
+}
+
+#Smith {
+    width: 317px;
+    height: auto;
+}
+
+#ten {
+    font-family: Space Grotesk;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+    width: 323px;
+}
+
+@media screen and (max-width:1200px) {
+    #Navigating {
+        width: 511px;
+        font-size: 60px;
+        line-height: 76.56px;
+    }
+
+    #digital {
+        font-size: 20px;
+        line-height: 28px;
+        width: 478px;
+    }
+
+    #agency {
+        width: 580px;
+        font-size: 18px;
+        line-height: 22.97px;
+    }
+
+    #Contact {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 500px;
+    }
+
+    #card-1 {
+        width: 367px;
+    }
+
+    #Smith {
+        width: 323px;
+    }
+
+    #ten {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 323px;
+    }
+
+}
+
+@media screen and (max-width:992px) {
+    #Navigating {
+        font-size: 50px;
+        line-height: 60.56px;
+    }
+
+    #digital {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    #agency {
+        width: 580px;
+        font-size: 18px;
+        line-height: 22.97px;
+        text-align: center;
+    }
+
+    #Contact {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 500px;
+    }
+
+    #Working {
+        font-size: 40px;
+        line-height: 51.04px;
+    }
+
+    #Achieving {
+        width: 292px;
+        font-size: 18px;
+        line-height: 22.97px
+    }
+
+    #number-2 {
+        font-size: 54px;
+        line-height: 70.56px;
+    }
+
+    #Research {
+        font-size: 18px;
+        line-height: 25.28px;
+    }
+
+    #skilled {
+        font-size: 18px;
+        line-height: 22.97px;
+    }
+
+    #Testimonials {
+        font-size: 35px;
+        line-height: 51.04px;
+    }
+
+    #Satisfied {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 453px;
+    }
+
+    #card-1 {
+        width: 367px;
+    }
+
+    #Smith {
+        width: 323px;
+    }
+
+    #ten {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 323px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    #Navigating {
+        font-size: 45px;
+        line-height: 50.56px;
+    }
+
+    #digital {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    #agency {
+        width: 480px;
+        font-size: 18px;
+        line-height: 22.97px;
+        text-align: center;
+    }
+
+    #Contact {
+        font-size: 18px;
+        line-height: 18.97px;
+        width: 380px;
+    }
+
+    #Working {
+        font-size: 30px;
+        line-height: 51.04px;
+    }
+
+    #Achieving {
+        width: 292px;
+        font-size: 18px;
+        line-height: 22.97px
+    }
+
+    #number-2 {
+        font-size: 54px;
+        line-height: 70.56px;
+    }
+
+    #Research {
+        font-size: 18px;
+        line-height: 25.28px;
+    }
+
+    #skilled {
+        font-size: 18px;
+        line-height: 22.97px;
+    }
+
+    #Testimonials {
+        font-size: 30px;
+        line-height: 51.04px;
+    }
+
+    #Satisfied {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 353px;
+        text-align: center;
+    }
+
+    #card-1 {
+        width: 367px;
+    }
+
+    #Smith {
+        width: 323px;
+    }
+
+    #ten {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 323px;
+    }
+}
+
+@media screen and (max-width:520px) {
+    #Navigating {
+        font-size: 45px;
+        line-height: 50.56px;
+        width: 380px;
+    }
+
+    #digital {
+        font-size: 17px;
+        line-height: 23px;
+        width: 389px;
+    }
+
+    #agency {
+        width: 390px;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    #Contact {
+        font-size: 17px;
+        line-height: 18.97px;
+        width: 300px;
+    }
+
+    #Working {
+        font-size: 30px;
+        line-height: 51.04px;
+        width: 250px;
+    }
+
+    #Achieving {
+        width: 392px;
+        font-size: 17px;
+        line-height: 20.97px;
+        text-align: center;
+    }
+
+    #number-2 {
+        font-size: 50px;
+        line-height: 70.56px;
+    }
+
+    #Research {
+        font-size: 17px;
+        line-height: 25.28px;
+    }
+
+    #skilled {
+        font-size: 16px;
+        line-height: 22.97px;
+        text-align: center;
+        width: 390px;
+    }
+
+    #Testimonials {
+        font-size: 30px;
+        line-height: 51.04px;
+    }
+
+    #Satisfied {
+        font-size: 17px;
+        line-height: 22.97px;
+        width: 350px;
+        text-align: center;
+    }
+
+    #Policy {
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    #Subscribe {
+        width: 250px;
+    }
+
+    #border {
+        border-radius: 0px;
+    }
+
+    #see {
+        width: 390px;
+    }
+
+    #card-1 {
+        width: 340px;
+    }
+
+    #Smith {
+        width: 280px;
+    }
+
+    #ten {
+        font-size: 14px;
+        line-height: 24px;
+        width: 290px;
+    }
+}
+
+
+
+@media screen and (max-width:380px) {
+    #Navigating {
+        font-size: 35px;
+        line-height: 50.56px;
+        width: 300px;
+    }
+
+    #digital {
+        font-size: 16px;
+        line-height: 23px;
+        width: 300px;
+    }
+
+    #agency {
+        width: 300px;
+        font-size: 15px;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    #Contact {
+        font-size: 15px;
+        line-height: 18.97px;
+        width: 250px;
+    }
+
+    #Working {
+        font-size: 28px;
+        line-height: 51.04px;
+    }
+
+    #Achieving {
+        width: 299px;
+        font-size: 17px;
+        line-height: 20.97px
+    }
+
+    #number-2 {
+        font-size: 34px;
+        line-height: 60.56px;
+    }
+
+    #Research {
+        font-size: 13px;
+        line-height: 17.28px;
+    }
+
+    #skilled {
+        font-size: 15px;
+        line-height: 20.97px;
+        text-align: center;
+        width: 300px;
+    }
+
+    #Testimonials {
+        font-size: 30px;
+        line-height: 51.04px;
+    }
+
+    #Satisfied {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 300px;
+        text-align: center;
+    }
+
+    #Policy {
+        display: flex;
+        align-items: center;
+    }
+
+    #border {
+        border-radius: 0px;
+    }
+
+    #see {
+        width: 300px;
+    }
+
+    #card-1 {
+        width: 300px;
+    }
+
+    #Smith {
+        width: 270px;
+    }
+
+    #ten {
+        font-size: 15px;
+        line-height: 20px;
+        width: 265px;
+    }
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#Navigating {
+    width: 531px;
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.56px;
+    text-align: left;
+}
+
+#digital {
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    width: 498px;
+}
+
+#agency {
+    width: 580px;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+}
+
+#Contact {
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+    width: 500px;
+}
+
+#Working {
+    font-family: Space Grotesk;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 51.04px;
+    text-align: left;
+}
+
+#Achieving {
+    width: 292px;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+}
+
+#number-2 {
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.56px;
+    text-align: left;
+    color: black;
+}
+
+#Research {
+    font-family: Space Grotesk;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 38.28px;
+    text-align: left;
+    color: black;
+}
+
+#skilled {
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+    width: 450px;
+}
+
+#us {
+    border-radius: 10px;
+    width: 163px;
+    height: 48px;
+    font-family: Space Grotesk;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 51.04px;
+    text-align: left;
+    background-color: #B9FF66;
+}
+
+#our {
+    width: 353px;
+    height: 46px;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+}
+
+#say {
+    width: 54px;
+    height: 23px;
+    left: 42px;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+}
+
+#say-2 {
+    width: 104px;
+    height: auto;
+    font-family: Space Grotesk;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.97px;
+    text-align: left;
+}
+
+@media screen and (max-width:1200px) {
+
+    #Navigating {
+        width: 511px;
+        font-size: 60px;
+        line-height: 76.56px;
+    }
+
+    #digital {
+        font-size: 20px;
+        line-height: 28px;
+        width: 478px;
+    }
+
+    #agency {
+        width: 580px;
+        font-size: 18px;
+        line-height: 22.97px;
+    }
+
+    #Contact {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:992px) {
+
+    #Navigating {
+        font-size: 50px;
+        line-height: 60.56px;
+    }
+
+    #digital {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    #agency {
+        width: 580px;
+        font-size: 18px;
+        line-height: 22.97px;
+        text-align: center;
+    }
+
+    #Contact {
+        font-size: 18px;
+        line-height: 22.97px;
+        width: 500px;
+    }
+
+    #Working {
+        font-size: 40px;
+        line-height: 51.04px;
+    }
+
+    #Achieving {
+        width: 292px;
+        font-size: 18px;
+        line-height: 22.97px
+    }
+
+    #number-2 {
+        font-size: 54px;
+        line-height: 70.56px;
+    }
+
+    #Research {
+        font-size: 18px;
+        line-height: 25.28px;
+    }
+
+    #skilled {
+        font-size: 18px;
+        line-height: 22.97px;
+    }
+}
+
+@media screen and (max-width:768px) {
+
+    #Navigating {
+        font-size: 45px;
+        line-height: 50.56px;
+    }
+
+    #digital {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    #agency {
+        width: 480px;
+        font-size: 18px;
+        line-height: 22.97px;
+        text-align: center;
+    }
+
+    #Contact {
+        font-size: 18px;
+        line-height: 18.97px;
+        width: 380px;
+    }
+
+    #Working {
+        font-size: 30px;
+        line-height: 51.04px;
+    }
+
+    #Achieving {
+        width: 292px;
+        font-size: 18px;
+        line-height: 22.97px
+    }
+
+    #number-2 {
+        font-size: 54px;
+        line-height: 70.56px;
+    }
+
+    #Research {
+        font-size: 18px;
+        line-height: 25.28px;
+    }
+
+    #skilled {
+        font-size: 18px;
+        line-height: 22.97px;
+    }
+}
+
+@media screen and (max-width:520px) {
+
+    #Navigating {
+        font-size: 45px;
+        line-height: 50.56px;
+        width: 380px;
+    }
+
+    #digital {
+        font-size: 17px;
+        line-height: 23px;
+        width: 389px;
+    }
+
+    #agency {
+        width: 390px;
+        font-size: 16px;
+        line-height: 24px
+    }
+
+}
